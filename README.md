@@ -18,5 +18,8 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 ## 💭 Reflexão (Opcional)
 Foi bem desafiador criar o ebook.
 
+## LINK DO EBOOK
+
+[Ebook Como as Inteligências Artificiais estão Transformando os Serviços Bancários.pdf](https://github.com/user-attachments/files/17835269/Ebook.Como.as.Inteligencias.Artificiais.estao.Transformando.os.Servicos.Bancarios.pdf)
 
 
